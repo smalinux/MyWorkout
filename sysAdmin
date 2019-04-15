@@ -1,0 +1,72 @@
+https://gist.github.com/smalinux/ee7a39c4a53fabbf38787ade2930c75d
+
+ HELP
+=================================================================================
+=================================================================================
+Page 70 to 82  >> ("UNIX and Linux System Administration Handbook")
+
+$ man
+	! search in the book ("UNIX and Linux System Administration Handbook") to find every option of every command.
+	$ man passwd > passwd.txt
+	! http://man7.org/linux/man-pages/index.html
+
+! vendors man :
+	> https://www.debian.org/doc/
+	> https://www.redhat.com/docs
+	> https://help.ubuntu.com/
+	> https://wiki.centos.org/
+	> https://www.freebsd.org/docs.html
+
+! Books
+	O’Reilly books
+
+! RFC publications		!!!
+
+! blogs
+
+! Google is a system administrator’s best friend	
+
+! Keeping up-to-date
+	> Twitter
+	> reddit
+		the sysadmin, linux, linuxadmin, and netsec subreddits
+	> https://www.schneier.com/
+	> http://sysadvent.blogspot.com/
+	> https://everythingsysadmin.com/
+	> https://twitter.com/SwiftOnSecurity
+	> https://www.cyberciti.biz/
+	> https://www.securityfocus.com/
+	> lxer.com
+	> lwn.net
+	> linuxfoundation.org
+	> linux.com
+	> https://www.darkreading.com/
+
+! HowTos
+	> wiki.archlinux.org
+	> askubuntu.com
+	> kernel.org
+	> https://serverfault.com/
+	> Stack Overflow
+
+! Conferences
+	> Lisa Conference
+	> Monitorama Conference
+	> OSCON Conference
+	> SCALE Conference
+	> DefCon Conference
+	> Velocity Conference
+	> BSDCan Conference
+	> re:lnvent Conference
+	> VMWorld Conference
+	> LinuxCon Conference
+	> RSA Conference
+	> DevOpsDays Conference
+	> QCon Conference
+
+
+
+Git
+=================================================================================
+=================================================================================
+https://git-scm.com/book/en/v2
